@@ -2,8 +2,13 @@
 
 - pyenv
 - python==3.11.3
+- matplotlib==3.7.1
+- seaborn==0.12.2
+- numpy==1.24.3
+- pandas==2.0.1
+- scikit-learn==1.2.2
 - missingno==0.5.2
-- lazypredigt==0.2.13
+- lazypredict==0.2.13
 - xxxToBeAdded
 
 ## Setup
